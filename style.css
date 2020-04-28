@@ -5,3 +5,8 @@ h1{
 #img1, #img2{
   height: 300px;
 }
+.link{
+  text-decoration:none;
+  color:#000;
+  border: 2px solid #00f;
+}
